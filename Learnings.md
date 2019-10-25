@@ -8,7 +8,7 @@
 
 
 **Issues Faced**
- * 1 for overpass AI 
+ * 1 for overpass API
  * 1
  * 1
  * 1
