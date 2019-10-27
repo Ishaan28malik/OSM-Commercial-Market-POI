@@ -1,0 +1,30 @@
+X,Y,osm_id,operator,name,public_transport,railway,ref,highway,network,short_name,payment:coins,name:kn,wikipedia,payment:contactless,payment:cash,station,wikidata,subway,payment:electronic_purses,payment:cards,alt_name,name:hi,old_name,level
+77.2078328,28.5668545,3504437631,Delhi Metro Rail Corporation Ltd.,All India Institute of Medical Sciences,stop_position,station,,,IN:DMRC:YELLOW,AIIMS,yes,ಏಐಐಎಮ್ಎಸ್,en:AIIMS metro station,yes,yes,subway,Q4651928,yes,yes,yes,,,,
+77.2092708,28.5741693,5777602018,,INA (Yellow Line),stop_position,,,,DMRC,,,ಐಎನ್ಏ,en:INA metro station,,,,Q17055892,yes,,,Indian National Airways,,,
+77.2093306,28.5741591,554257793,,INA (Yellow Line),stop_position,,,,DMRC,,,ಐಎನ್ಏ,en:INA metro station,,,,Q17055892,yes,,,Indian National Airways,,,
+77.2111269,28.5973548,554257797,,Lok Kalyan Marg,stop_position,station,,,DMRC,,,ಲೋಕ್ ಕಲ್ಯಾಣ್,,,,subway,,yes,,,,लोक कल्याण मार्ग,Race Course,
+77.2125637,28.5865942,554257805,,Jor Bagh,stop_position,station,,,DMRC,,,ಜೋರ್ ಭಾಗ್,,,,subway,,yes,,,,,,
+77.2118249,28.6095117,554257800,,Udyog Bhavan,stop_position,station,,,DMRC,,,,,,,subway,,yes,,,,,,
+77.2140587,28.6229537,554257818,,Patel Chowk,stop_position,station,,,DMRC,,,,,,,subway,Q7144407,yes,,,,,,
+77.2249956,28.6297527,554257839,Delhi Metro Rail Corporation,Barakhambha Road,stop_position,stop,,,Delhi Metro,,,,,,,subway,,yes,,,,,,
+77.2250214,28.6297873,5737167209,Delhi Metro Rail Corporation,Barakhambha Road,stop_position,stop,,,Delhi Metro,,,,,,,subway,,yes,,,,,,
+77.2341954,28.6255914,554257827,,Mandi House,stop_position,stop,,,,,,,,,,,,yes,,,,,,
+77.2341984,28.6256326,5737167205,,Mandi House,stop_position,stop,,,,,,,,,,,,yes,,,,,,
+77.2192365,28.6315921,928597615,,Rajiv Chowk,,subway_entrance,6,,DMRC,,,,,,,,,,,,,,,
+77.2183526,28.6323385,928610588,,Rajiv Chowk,,subway_entrance,7,,DMRC,,,,,,,,,,,,,,,
+77.2180901,28.6325837,5578451970,,Rajiv Chowk,,subway_entrance,4,elevator,,,,,,,,,,,,,,,,"0;-1"
+77.2182419,28.6329347,928610590,,Rajiv Chowk,,subway_entrance,8,,DMRC,,,,,,,,,,,,,,,
+77.2192019,28.6324513,6182975989,,Rajiv Chowk,,subway_entrance,,elevator,,,,,,,,,,,,,,,,"-1;-2"
+77.2193123,28.6327062,6539894851,,Rajiv Chowk,station,station,,,DMRC,,,ರಾಜೀವ್ ಚೌಕ್,,,,subway,Q7286183,yes,,,,राजीव चौक,,
+77.2194242,28.6327423,5453621429,,Rajiv Chowk,stop_position,stop,,,DMRC,,,ರಾಜೀವ್ ಚೌಕ್,,,,,,yes,,,,राजीव चौक,,
+77.2192419,28.6327955,6539894852,,Rajiv Chowk,stop_position,stop,,,DMRC,,,ರಾಜೀವ್ ಚೌಕ್,,,,,,yes,,,,राजीव चौक,,
+77.2196877,28.6327591,939091076,Delhi Metro Rail Corporation,Rajiv Chowk,stop_position,stop,,,Delhi Metro,,,ರಾಜೀವ್ ಚೌಕ್,,,,,,yes,,,,राजीव चौक,,
+77.2196996,28.6327804,6539894854,Delhi Metro Rail Corporation,Rajiv Chowk,station,station,,,Delhi Metro,,,ರಾಜೀವ್ ಚೌಕ್,,,,subway,Q7286183,yes,,,,राजीव चौक,,
+77.2197106,28.6327972,6539894853,Delhi Metro Rail Corporation,Rajiv Chowk,stop_position,stop,,,Delhi Metro,,,ರಾಜೀವ್ ಚೌಕ್,,,,,,yes,,,,राजीव चौक,,
+77.2202119,28.6316211,928597613,,Rajiv Chowk,,subway_entrance,5,,DMRC,,,,,,,,,,,,,,,
+77.2210877,28.6330365,928597611,,Rajiv Chowk,,subway_entrance,4,,DMRC,,,,,,,,,,,,,,,
+77.2187521,28.6337363,928610585,,Rajiv Chowk,,subway_entrance,1,,DMRC,,,,,,,,,,,,,,,
+77.21958,28.6334615,6182974865,,Rajiv Chowk,,subway_entrance,,elevator,,,,,,,,,,,,,,,,"-1;-2"
+77.218902,28.6340376,6180324529,,Rajiv Chowk,,subway_entrance,,elevator,,,,,,,,,,,,,,,,"0;-1"
+77.2193402,28.6340158,928592947,,Rajiv Chowk,,subway_entrance,2,,DMRC,,,,,,,,,,,,,,,
+77.2207506,28.6336414,928597607,,Rajiv Chowk,,subway_entrance,3,,DMRC,,,,,,,,,,,,,,,

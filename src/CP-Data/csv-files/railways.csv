@@ -1,0 +1,9 @@
+X,Y,osm_id,layer,name,tunnel,railway,name:hi,colour,electrified,frequency,gauge,voltage
+77.2113612498966,28.6038205485391,610022433,-4,Delhi Metro Yellow Line,yes,subway,दिल्ली मेट्रो पीला लाइन,ffff00,contact_line,50,1676,25000
+77.2114222498965,28.6038195985365,343626950,-4,Delhi Metro Yellow Line,yes,subway,दिल्ली मेट्रो पीला लाइन,,contact_line,50,1676,25000
+77.2228080549217,28.6310031471866,52082767,-2,Delhi Metro Blue Line,yes,subway,दिल्ली मेट्रो नीला लाइन,,contact_line,50,1676,25000
+77.2228357045828,28.6310367473803,604707732,-2,Delhi Metro Blue Line,yes,subway,दिल्ली मेट्रो नीला लाइन,blue,contact_line,50,1676,25000
+77.2193082500295,28.6329668500763,660097246,-4,Delhi Metro Yellow Line,yes,subway,दिल्ली मेट्रो पीला लाइन,ffff00,contact_line,50,1676,25000
+77.2195018053516,28.6329543646239,660097247,-4,Delhi Metro Yellow Line,yes,subway,दिल्ली मेट्रो पीला लाइन,,contact_line,50,1676,25000
+77.22116935,28.63877565,660097245,-4,Delhi Metro Yellow Line,yes,subway,दिल्ली मेट्रो पीला लाइन,ffff00,contact_line,50,1676,25000
+77.22129285,28.63875175,660097244,-4,Delhi Metro Yellow Line,yes,subway,दिल्ली मेट्रो पीला लाइन,,contact_line,50,1676,25000
