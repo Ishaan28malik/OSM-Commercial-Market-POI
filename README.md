@@ -1,15 +1,13 @@
 ## This is the Open Street Map to Identify the Commercial Market places.
 
-### Markdown
+### Project Discription 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 
+![]()
 
-# Project
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -20,6 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
