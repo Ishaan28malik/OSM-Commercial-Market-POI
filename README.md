@@ -7,7 +7,6 @@
 # [Data Source](https://www.openstreetmap.org/#map=11/28.6518/77.2219)
 
 
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
