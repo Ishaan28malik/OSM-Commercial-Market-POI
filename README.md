@@ -2,12 +2,11 @@
 
 ### Project Discription 
 
+![img](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/CP%20map1.PNG)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-
-![]()
-
 
 - Bulleted
 - List
