@@ -16,7 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![img](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/CP%20map1.PNG)
 
 ```
 
