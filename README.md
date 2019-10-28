@@ -4,7 +4,25 @@
 
 ![img](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/OSM%20CP.PNG)
 
+## Data Extraction 
+
+## [QGIS](https://qgis.org/en/site/)
+
+![img2](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/qgis.PNG)
+
+
 # [Data Source](https://www.openstreetmap.org/#map=11/28.6518/77.2219)
+
+
+## Building Data 
+
+![building](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/Buildings.PNG)
+
+![img3](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/Buld.PNG)
+
+## Road Data
+
+![road](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/Road.PNG)
 
 
 ### Jekyll Themes
