@@ -1,25 +1,12 @@
-## This is the Open Street Map to Identify the Commercial Market places.
+# Identifying commercial centers using Points of Interest (POI) data
 
 ### Project Discription 
 
 ![img](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/OSM%20CP.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# [Data Source](https://www.openstreetmap.org/#map=11/28.6518/77.2219)
 
 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
