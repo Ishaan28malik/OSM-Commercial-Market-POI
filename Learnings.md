@@ -1,6 +1,5 @@
 **Learnings throughout the project**
 
-* **Phase 1**
 * Starting from what is Point of Interest Data(POI)
 * 1 Working of Open Street map
 * 2 What is QGIS and how does it works 
@@ -10,6 +9,7 @@
 
 
 **Issues Faced**
+
  * 1 for overpass API
  * 2 I could have used OSmium but right now I have a windows machine and Osmium doesn't supports windows [osmium](https://osmcode.org/osmium-tool/)
  * 3 Other than this , I could have opted for a bigger osm file but the data set given didn't allowed to store a large osm file.
