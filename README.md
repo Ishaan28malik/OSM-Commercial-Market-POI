@@ -24,6 +24,12 @@
 
 ![road](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/src/Images/Road.PNG)
 
+### Python Notebooks
+
+* [Buildings](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/Code/Buildings.ipynb)
+* [Roads](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/Code/Roads.ipynb)
+* [Railways](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/blob/master/Code/Railways.ipynb)
+
 ### CSV Files
 
 ### [CSV Files](https://github.com/Ishaan28malik/OSM-Commercial-Market-POI/tree/master/src/CP-Data/csv-files)
